@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "462443425661",
+    "project_id": "mycoolapp-dfd2c",
+    "storage_bucket": "mycoolapp-dfd2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462443425661:android:ad6a168b1a1ee4257e6614",
+        "android_client_info": {
+          "package_name": "co.amity.react_native_social_typescript"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462443425661-pst65t746vk9scou93gfukhohjl0e3tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCseBnKGX8oJAegqVp8YbcfkIEQd1Tr2L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462443425661-pst65t746vk9scou93gfukhohjl0e3tg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462443425661-33u36hqhgm52dpo5pae6iocjemshs4ql.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cccc.aaa.aasdasd.asdasd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

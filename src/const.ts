@@ -1,0 +1,3 @@
+export const CONSTANT = {
+  KEY_USER_CONTEXT: "KEY_USER_CONTEXT"
+}
